@@ -19,7 +19,7 @@ Advent of Code is a set of daily coding puzzles, designed for fun and to challen
 | 1   | ✅     | ✅     |
 | 2   | ✅     | ✅     |
 | 3   | ✅     | ✅     |
-| 4   | ❌     | ❌     |
+| 4   | ✅     | ✅     |
 | 5   | ❌     | ❌     |
 | 6   | ❌     | ❌     |
 | 7   | ❌     | ❌     |
